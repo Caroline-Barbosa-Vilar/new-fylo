@@ -3,4 +3,5 @@
   width: 100%;
   background: url(../img/bg-mobile.png) center no-repeat;
   background-size: cover;
+  position: absolute;
 }
