@@ -1,6 +1,6 @@
 .container__files {
-  width: 90%;
-  height: 35%;
+  width: 33rem;
+  height: 22.4rem;
   background-color: var(--dark-blue);
   margin: 13rem auto;
   border-radius: 10px 100px 10px 10px;
@@ -9,4 +9,7 @@
   width: 14.8rem;
   height: 4.5rem;
   margin: 4.1rem 0 0 5rem;
+}
+.container__files-links {
+  display: flex;
 }
