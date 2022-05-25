@@ -6,9 +6,3 @@
 
   --raleway: 'Raleway', sans-serif;
 }
-body {
-  width: 100vw;
-  height: 100vh;
-  min-height: 67rem;
-  min-width: 37rem;
-}
