@@ -5,3 +5,8 @@
   margin: 13rem auto;
   border-radius: 10px 100px 10px 10px;
 }
+.container__files img {
+  width: 14.8rem;
+  height: 4.5rem;
+  margin: 4.1rem 0 0 5rem;
+}
