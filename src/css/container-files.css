@@ -2,7 +2,8 @@
   width: 33rem;
   height: 22.4rem;
   background-color: var(--dark-blue);
-  margin: 13rem auto;
+  margin: 13rem auto 0;
+  /* position: absolute; */
   border-radius: 10px 100px 10px 10px;
 }
 .container__files img {
