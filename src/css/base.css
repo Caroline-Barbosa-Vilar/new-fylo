@@ -8,6 +8,20 @@
 }
 body {
   height: 100vh;
-  min-height: 67rem;
-  min-width: 37rem;
+  background: url(../img/bg-desktop.png) var(--very-dark-blue) no-repeat;
+  background-size: 100% 50%;
+  background-position: center bottom;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+}
+@media (max-width: 850px) {
+  body {
+    background-size: cover;
+  }
 }
