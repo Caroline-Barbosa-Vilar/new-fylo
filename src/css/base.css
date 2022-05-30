@@ -20,8 +20,3 @@ footer {
   position: absolute;
   bottom: 0;
 }
-@media (max-width: 850px) {
-  body {
-    background-size: cover;
-  }
-}
