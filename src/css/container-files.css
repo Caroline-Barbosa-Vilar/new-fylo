@@ -1,15 +1,20 @@
 .container__files {
-  width: 90%;
-  height: 30%;
   background-color: var(--dark-blue);
+  height: 100%;
   /* margin: 13rem auto 0; */
   border-radius: 10px 100px 10px 10px;
+  padding: 40px;
 }
 .container__files img {
-  width: 14.8rem;
-  height: 4.5rem;
+  width: 8rem;
+
   /* margin: 4.1rem 0 0 5rem; */
 }
 .container__files-links {
   display: flex;
+}
+.upload {
+  background-color: var(--dark-blue);
+  border-radius: 10px;
+  padding: 40px;
 }
