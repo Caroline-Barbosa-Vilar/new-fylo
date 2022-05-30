@@ -1,10 +1,13 @@
 .container {
-  height: 95%;
+  max-width: 900px;
   width: 100%;
-  background: url(../img/bg-mobile.png) center no-repeat;
   background-size: cover;
-  display: flex;
-  flex-direction: column;
-  /* justify-content: center; */
-  align-items: center;
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 30px;
+}
+@media (max-width: 850px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
 }
