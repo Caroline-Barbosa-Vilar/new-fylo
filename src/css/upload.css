@@ -36,3 +36,12 @@
   border-radius: 100%;
   margin-left: 364px;
 }
+.upload__info {
+  display: flex;
+  justify-content: space-between;
+}
+.upload__info p {
+  font-size: .8rem;
+  font-weight: 600;
+  padding-top: 10px;
+}
