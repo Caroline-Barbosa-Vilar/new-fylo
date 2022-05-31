@@ -1,8 +1,8 @@
 .container {
-  max-width: 900px;
+  max-width: 1020px;
   width: 100%;
   background-size: cover;
   display: grid;
-  grid-template-columns: 300px 1fr;
+  grid-template-columns: 390px 1fr;
   gap: 30px;
 }
