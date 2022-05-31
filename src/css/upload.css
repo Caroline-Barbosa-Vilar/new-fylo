@@ -2,11 +2,16 @@
   height: 10.6rem;
   background-color: var(--dark-blue);
   border-radius: 10px;
-  padding: 40px;
+  padding: 45px;
   color: var(--white);
   font-weight: 300;
   margin-top: 50px;
 }
 .upload h1 {
+  font-size: 1rem;
   font-weight: 300;
+  color: var(--white);
+}
+.upload span {
+  font-weight: 600;
 }
