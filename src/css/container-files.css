@@ -28,3 +28,8 @@
   height: 3.3rem;
   padding: 15px 11px;
 }
+.container__files-links .container__files-links--up {
+  width: 3rem;
+  height: 3.4rem;
+  padding: 18px 11px;
+}
