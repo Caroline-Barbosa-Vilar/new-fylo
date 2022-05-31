@@ -23,3 +23,8 @@
   height: 3.3rem;
   padding: 13px;
 }
+.container__files-links .container__files-links--folder {
+  width: 3rem;
+  height: 3.3rem;
+  padding: 15px 11px;
+}
