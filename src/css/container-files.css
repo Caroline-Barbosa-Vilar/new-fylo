@@ -1,14 +1,11 @@
 .container__files {
   background-color: var(--dark-blue);
-  height: 100%;
-  /* margin: 13rem auto 0; */
+  height: 13.75rem;
   border-radius: 10px 100px 10px 10px;
-  padding: 40px;
+  padding: 43px 46px;
 }
 .container__files img {
-  width: 8rem;
-
-  /* margin: 4.1rem 0 0 5rem; */
+  width: 9rem;
 }
 .container__files-links {
   display: flex;
