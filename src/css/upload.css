@@ -21,4 +21,18 @@
   height: 26%;
   margin-top: 19px;
   border-radius: 10px;
+  padding: 3px 0 0 4px;
+}
+.upload__bar-gradient {
+  background-image: linear-gradient(to right, hsl(6, 100%, 80%) , hsl(335, 100%, 65%));
+  width: 75%;
+  height: 80%;
+  border-radius: 10px;
+}
+.upload__bar-gradient--circle {
+  background-color: var(--white);
+  width: 3.5%;
+  height: 95%;
+  border-radius: 100%;
+  margin-left: 364px;
 }
