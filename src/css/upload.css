@@ -2,4 +2,9 @@
   background-color: var(--dark-blue);
   border-radius: 10px;
   padding: 40px;
+  color: var(--white);
+  font-weight: 300;
+}
+.upload h1 {
+  font-weight: 300;
 }
