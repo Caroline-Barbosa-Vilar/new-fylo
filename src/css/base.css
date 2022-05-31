@@ -18,7 +18,3 @@ body {
   padding: 30px;
   font-family: var(--raleway);
 }
-footer {
-  position: absolute;
-  bottom: 0;
-}
