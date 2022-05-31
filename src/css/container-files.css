@@ -18,3 +18,7 @@
   background-color: var(--very-dark-blue);
   border-radius: 10px;
 }
+.container__files-links--doc {
+  width: 2rem;
+  height: 3rem;
+}
