@@ -9,4 +9,12 @@
 }
 .container__files-links {
   display: flex;
+  gap: 1.2rem;
+  padding-top: 35px;
+}
+.container__files-links a {
+  width: 3.32rem;
+  height: 3.3rem;
+  background-color: var(--very-dark-blue);
+  border-radius: 10px;
 }
