@@ -47,8 +47,37 @@
   padding-top: 10px;
 }
 .upload__left {
-  width: 6.25rem;
-  height: 1.90rem;
+  width: 13rem;
+  height: 4rem;
   background-color: var(--white);
   color: var(--black);
+  border-radius: 10px 10px 0 10px;
+  position: relative;
+  border: 1px solid var(--black);
+}
+.upload__left::before {
+  content: '';
+  width: 0;
+  height: 0;
+  position: absolute;
+  border-left: 20px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid var(--white);
+  bottom: -4px;
+  left: 89.6%;
+  transform: rotate(50deg);
+}
+.upload__left span {
+  font-size: 2rem;
+  color: var(--black);
+  font-weight: 700;
+  padding-right: .5rem;
+}
+.upload__left p {
+  font-size: .8rem;
+  font-weight: 700;
+  color: var(--grayish-blue);
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 1rem;
 }
