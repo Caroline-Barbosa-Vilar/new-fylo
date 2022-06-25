@@ -6,7 +6,8 @@
   color: var(--white);
   font-weight: 300;
   margin-top: 50px;
-  z-index: 1;
+  z-index: 0;
+  position: relative;
 }
 .upload h1 {
   font-size: 1rem;
@@ -47,13 +48,16 @@
   padding-top: 10px;
 }
 .upload__left {
-  width: 13rem;
-  height: 4rem;
+  width: 12.5rem;
+  height: 5.1rem;
   background-color: var(--white);
   color: var(--black);
   border-radius: 10px 10px 0 10px;
-  position: relative;
   border: 1px solid var(--black);
+  position: absolute;
+  z-index: 2;
+  right: 42px;
+  top: -52px;
 }
 .upload__left::before {
   content: '';
@@ -61,17 +65,11 @@
   height: 0;
   position: absolute;
   border-left: 20px solid transparent;
-  border-right: 10px solid transparent;
-  border-bottom: 10px solid var(--white);
-  bottom: -4px;
-  left: 89.6%;
-  transform: rotate(50deg);
-}
-.upload__left span {
-  font-size: 2rem;
-  color: var(--black);
-  font-weight: 700;
-  padding-right: .5rem;
+  border-right: 14px solid transparent;
+  border-bottom: 19px solid var(--white);
+  bottom: -12px;
+  left: 86.51%;
+  transform: rotate(36deg);
 }
 .upload__left p {
   font-size: .8rem;
@@ -80,4 +78,9 @@
   text-transform: uppercase;
   text-align: center;
   padding-top: 1rem;
+}
+.upload__left span {
+  font-size: 3rem;
+  color: var(--black);
+  font-weight: 700;
 }
