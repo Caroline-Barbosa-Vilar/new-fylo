@@ -72,15 +72,16 @@
   transform: rotate(36deg);
 }
 .upload__left p {
+  /* width: 10rem; porque não entrou?*/
   font-size: .8rem;
   font-weight: 700;
   color: var(--grayish-blue);
   text-transform: uppercase;
   text-align: center;
-  padding-top: 1rem;
 }
 .upload__left span {
   font-size: 3rem;
   color: var(--black);
   font-weight: 700;
+  margin-top: 5rem;
 }
