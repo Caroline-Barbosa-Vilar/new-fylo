@@ -30,6 +30,7 @@
   width: 75%;
   height: 80%;
   border-radius: 10px;
+  position: relative;
 }
 .upload__bar-gradient--circle {
   background-color: var(--white);
@@ -37,6 +38,7 @@
   height: 95%;
   border-radius: 100%;
   margin-left: 364px;
+  position: absolute;
 }
 .upload__info {
   display: flex;
