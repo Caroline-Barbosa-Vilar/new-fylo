@@ -4,5 +4,5 @@
   background-size: cover;
   display: grid;
   grid-template-columns: 390px 1fr;
-  gap: 30px;
+  gap: 1.875rem;
 }
