@@ -6,3 +6,16 @@
     grid-template-columns: 1fr;
   }
 }
+@media (max-width: 435px) {
+  .upload h1 {
+    font-size: .9rem;
+  }
+  .upload__left {
+    right: 5rem;
+    top: 8.8rem;
+    border-radius: 10px;
+  }
+  .upload__left::before {
+    display: none;
+  }
+}
