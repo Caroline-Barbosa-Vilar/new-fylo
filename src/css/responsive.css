@@ -19,3 +19,12 @@
     display: none;
   }
 }
+@media (max-width: 390px) {
+  .upload h1 {
+    font-size: .8rem;
+    text-align: center;
+  }
+  .upload__left {
+    right: 4rem;
+  }
+}  
