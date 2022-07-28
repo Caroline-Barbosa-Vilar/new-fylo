@@ -3,7 +3,9 @@
 <h1 align='center'> Fylo data storage component </h1>
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/new-fylo/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/new-fylo"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/new-fylo/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/new-fylo"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/new-fylo/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/new-fylo"></a>
 </div>
 
 _Para a versão em Português, clique [aqui](#portuguese)._ 
@@ -14,12 +16,11 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Technologies used](#technologies-used)
 
-<!-- - [What I learned](#what-I-learned)
+- [What I learned](#what-I-learned)
 
-- [Comparing the result](#comparing-the-result)
+- [Access the Project](#access-the-project)
 
-- [Access the Project](#access-the-project) -->
-
+<br>
 
 ## Project description
 
@@ -31,6 +32,8 @@ This is fictitious data storage that shows how much has been used and how much s
 
 </p>
 
+<br>
+
 ## Technologies used
 
 <div>
@@ -38,35 +41,33 @@ This is fictitious data storage that shows how much has been used and how much s
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+<br>
 
-<!-- ## What I learned
+## What I learned
 
 - Improve my Grid and Flexbox skills;
-- To make a more responsive-friendly code
+- To make a more responsive-friendly code.
 
-
-## Comparing the result
-
-<div align='center'> <img src="./src/testimonials-comparative-screen.gif" alt="The result comparison provided by the website"> </div>
-
+<br>
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/testimonials-project/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/new-fylo/) 
 
 Mobile:
 
-<img src="./src/testimonials-mobile-screen.gif" alt="The testimonials grid mobile screen gif">
+<img src="./src/new-fylo-mobile.png" alt="mobile screen">
 
-Desktop:
-
-<img src="./src/testimonials-desktop-screen.gif" alt="The testimonials grid desktop screen gif">
 
 Tablet:
 
-<img src="./src/testimonials-tablet-screen.gif" alt="The testimonials grid tablet screen gif"> -->
+<img src="./src/new-fylo-tablet.png" alt="tablet screen "> 
 
+Desktop:
 
+<img src="./src/new-fylo-desktop.png" alt="desktop screen">
+
+<br>
 
 <div id="portuguese">
 
@@ -75,7 +76,9 @@ Tablet:
 
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/new-fylo/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/new-fylo"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/new-fylo/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/new-fylo"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/new-fylo/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/new-fylo"></a>
 </div>
 
 
@@ -85,12 +88,11 @@ Tablet:
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-<!-- - [O que aprendi](#o-que-aprendi)
+- [O que aprendi](#o-que-aprendi)
 
-- [Comparando o resultado](#comparando-o-resultado)
+- [Acesse o projeto](#acesse-o-projeto)
 
-- [Acesse o projeto](#acesse-o-projeto) -->
-
+<br>
 
 ## Descrição do projeto 
 
@@ -102,6 +104,7 @@ Este projeto é um armazenamento de dados fictício que mostra o quanto já foi 
 
 </p>
 
+<br>
 
 ## Tecnologias utilizadas
 
@@ -110,31 +113,31 @@ Este projeto é um armazenamento de dados fictício que mostra o quanto já foi 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<!-- ## O que aprendi
+<br>
+
+## O que aprendi
 
 - Praticar e melhorar o uso de Flexbox e Grid;
 - A desenvolver um código mais responsivo.
 
-## Comparando o resultado
-
-<div align='center'> <img src="./src/testimonials-comparative-screen.gif" alt="A comparação do resultado fornecida pelo site"> </div>
-
+<br>
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui]
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/new-fylo/) 
 
 Mobile:
 
-<img src="./src/testimonials-mobile-screen.gif" alt="The testimonials grid mobile screen gif">
+<img src="./src/new-fylo-mobile.png" alt="mobile screen">
 
-Desktop:
-
-<img src="./src/testimonials-desktop-screen.gif" alt="The testimonials grid desktop screen gif">
 
 Tablet:
 
-<img src="./src/testimonials-tablet-screen.gif" alt="The testimonials grid tablet screen gif"> -->
+<img src="./src/new-fylo-tablet.png" alt="tablet screen "> 
+
+Desktop:
+
+<img src="./src/new-fylo-desktop.png" alt="desktop screen">
 
 
 <hr>
