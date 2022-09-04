@@ -18,6 +18,8 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [What I learned](#what-I-learned)
 
+- [Comparing the result](#comparing-the-result)
+
 - [Access the Project](#access-the-project)
 
 <br>
@@ -47,6 +49,12 @@ This is fictitious data storage that shows how much has been used and how much s
 
 - Improve my Grid and Flexbox skills;
 - To make a more responsive-friendly code.
+
+<br>
+
+## Comparing the result
+
+<div align='center'> <img src="./src/new-fylo-comparison-screen.gif" alt="The result comparison provided by the website"> </div>
 
 <br>
 
@@ -89,6 +97,8 @@ Desktop:
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 - [O que aprendi](#o-que-aprendi)
+   
+- [Comparando o resultado](#comparando-o-resultado)
 
 - [Acesse o projeto](#acesse-o-projeto)
 
@@ -120,6 +130,12 @@ Este projeto é um armazenamento de dados fictício que mostra o quanto já foi 
 - Praticar e melhorar o uso de Flexbox e Grid;
 - A desenvolver um código mais responsivo.
 
+<br>   
+   
+## Comparando o resultado
+
+<div align='center'> <img src="./src/new-fylo-comparison-screen.gif" alt="A comparação do resultado fornecida pelo site"> </div>   
+ 
 <br>
 
 ## Acesse o projeto
